@@ -1,0 +1,25 @@
+{
+  "name": "do-mask",
+  "version": "1.0.0",
+  "description": "Apply mask pattern to some string.",
+  "author": "Chicão Thiago",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oxechicao/do-mask.git"
+  },
+  "keywords": [
+    "mask",
+    "string",
+    "pattern",
+    "replace"
+  ],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/oxechicao/do-mask/issues"
+  },
+  "homepage": "https://github.com/oxechicao/do-mask#readme"
+}
